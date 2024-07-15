@@ -177,7 +177,7 @@ function App() {
                       Update
                     </button>
                   </div>
-                )
+                );
               } else {
                 return (
                   <div className="todo-list-item" key={index}>
